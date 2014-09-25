@@ -12,6 +12,8 @@ module.exports = function(options) {
 
     var src = file.contents.toString();
 
+    var css = basswork(src);
+
     file.contents = new Buffer(css);
     this.push(file);
     callback();
