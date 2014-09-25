@@ -1,12 +1,12 @@
 {
   "name": "gulp-basswork",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Gulp wrapper for Basswork",
   "main": "index.js",
   "author": "Brent Jackson",
   "license": "MIT",
   "dependencies": {
     "through2": "^0.6.2",
-    "basswork": "0.0.5"
+    "basswork": "0.0.6"
   }
 }
