@@ -7,6 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "through2": "^0.6.2",
-    "basswork": "0.0.7"
+    "basswork": "1.1.1"
   }
 }
