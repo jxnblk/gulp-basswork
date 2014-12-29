@@ -8,5 +8,16 @@
   "dependencies": {
     "through2": "^0.6.2",
     "basswork": "1.1.1"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxnblk/gulp-basswork.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jxnblk/gulp-basswork/issues"
+  },
+  "homepage": "https://github.com/jxnblk/gulp-basswork"
 }
