@@ -12,7 +12,9 @@ module.exports = function(options) {
 
     var src = file.contents.toString();
 
-    var css = basswork(src, { source: file.path });
+    options.source = file.path;
+
+    var css = basswork(src, options);
 
     file.contents = new Buffer(css);
     this.push(file);
