@@ -6,8 +6,8 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "dependencies": {
-    "through2": "^0.6.2",
-    "basswork": "1.1.1"
+    "basswork": "^1.2.0",
+    "through2": "^0.6.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
